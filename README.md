@@ -2,7 +2,9 @@
 
 <!--
 <h3>Student from Russia</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demon1747)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demon1747)]
+(https://github.com/anuraghazra/github-readme-stats)
+https://dev.to/envoy_/150-badges-for-github-pnk#os
 -->
 
 <!--
@@ -16,13 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💻
 -->
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demon1747&theme=gotham)
-<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demon1747&theme=gotham)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demon1747&theme=gotham)
--->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demon1747&theme=gotham)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Demon1747&theme=gotham)
 
@@ -37,5 +38,4 @@ Here are some ideas to get you started:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
